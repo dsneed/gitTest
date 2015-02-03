@@ -13,5 +13,9 @@ public class helloGit {
 		System.out.println("How very thoughtful, my dear friend. "
 				+ "Krabby Patties are indeed cleansing to the palette "
 				+ "and soothing to the soul.");
+
+		int numKrabPatties = 10;
+
+		System.out.println("I've eaten " + numKrabPatties + " Krabby Patties!");
 	}
 }
