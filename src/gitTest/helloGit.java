@@ -9,5 +9,6 @@ public class helloGit {
 		System.out.println("I have no feeling, I am but a tool, "
 				+ "a means to an end, one who cannot feel, cannot "
 				+ "reason...I am but a shell of a being");
+		System.out.println("However, I do like Krabby Patties.");
 	}
 }
