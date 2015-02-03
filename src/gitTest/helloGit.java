@@ -10,5 +10,8 @@ public class helloGit {
 				+ "a means to an end, one who cannot feel, cannot "
 				+ "reason...I am but a shell of a being");
 		System.out.println("However, I do like Krabby Patties.");
+		System.out.println("How very thoughtful, my dear friend. "
+				+ "Krabby Patties are indeed cleansing to the palette "
+				+ "and soothing to the soul.");
 	}
 }
